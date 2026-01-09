@@ -18,9 +18,7 @@ Tester depuis le poste client le dossier partage (ex : Dossier_RH)
 
 - Créer un fichier 
 
-- Ecrire un texte dessus
-
-- Enregistrer le texte.
+- Ecrire un texte dessus.
 
 ---
 
@@ -44,7 +42,5 @@ Voir ci-dessous, une démonstration imagée sur la vérification des permissions
 <img src="images/10.png" width="400">
 
 <img src="images/11.png" width="400">
-
-<img src="images/12.png" width="400">
 
 </p>
