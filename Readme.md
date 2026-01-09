@@ -99,8 +99,8 @@ Partie II – Mise en place d’AGLDP :
 
 Partie III – Tests et validations : 
 
-- Connexion utilisateur 
+- Connexion utilisateur au domaine
 
-- Accès aux dossiers 
+- Accès au dossier partage
 
-- Vérifications des droits. 
+- Vérifications des droits de permissions NTFS.
