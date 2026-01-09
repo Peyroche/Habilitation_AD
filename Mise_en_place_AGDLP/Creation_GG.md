@@ -76,9 +76,6 @@ Ensuite ajouter le groupe global au groupe domaine local
 
 ## Démonstration : 
 
-Voir ci-dessous, une démonstration imagée sur la création d'un groupe global.
-
-
 Créer un groupe global
 
 <p align="center">
@@ -119,6 +116,7 @@ Ensuite créer un groupe domaine local
 
 
 Ensuite ajouter le groupe global au groupe domaine local
+
 <p align="center">
 
 <img src="images/16.png" width="400">
