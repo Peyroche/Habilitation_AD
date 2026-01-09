@@ -36,8 +36,6 @@ La procédure utilisée est la suivante :
 
 ## Démonstration :
 
-Voir ci-dessous, une démonstration imagée sur la création d'un utilisateur au domaine.
-
 <p align="center">
 
 <img src="images/01.png" width="400">
