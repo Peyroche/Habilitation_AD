@@ -26,6 +26,7 @@ Résultat attendu :
 
 Si l’utilisateur appartient au groupe autorisé, l’accès est direct. Sinon, Windows demande des identifiants du domaine.
 
+---
 
 ## Démonstration : 
 
