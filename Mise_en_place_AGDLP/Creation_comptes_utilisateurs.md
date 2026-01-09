@@ -36,7 +36,7 @@ Les comptes utilisateurs sont créés depuis la console Utilisateurs et ordinate
 
 ## Démonstration :
 
-Voir ci-dessous, une démonstration imagée sur la connexion d'un utilisateur au domaine.
+Voir ci-dessous, une démonstration imagée sur la création d'un utilisateur au domaine.
 
 <p align="center">
 
