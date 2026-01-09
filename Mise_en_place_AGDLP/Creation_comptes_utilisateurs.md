@@ -1,0 +1,70 @@
+# CREATIONS DES COMPTES UTILISATEURS
+
+---
+
+## Objectif :
+
+Chaque utilisateur est créé dans l’OU correspondant à son service afin de maintenir une organisation claire et professionnelle du domaine Active Directory. 
+
+---
+ 
+## Procédure :
+
+Les comptes utilisateurs sont créés depuis la console Utilisateurs et ordinateurs Active Directory (ADUC) en suivant la procédure suivante : 
+
+1. Ouvrir Utilisateurs et ordinateurs Active Directory 
+
+2. Clic sur le domaine 
+
+3. Naviguer jusqu’à l’OU du service concerné (ex : Utilisateurs_RH) 
+
+4. Clic droit → Nouveau → Utilisateur 
+
+5. Renseigner les informations :  
+
+- Prénom (ex : Placide)
+
+- Nom  
+
+- Nom d’ouverture de session (ex : Placide) 
+
+6. Définir un mot de passe conforme à la politique de sécurité 
+
+7. Valider la création du compte. 
+
+---
+
+## Démonstration :
+
+Les utilisateurs suivants ont été crées :
+
+| Services            | OU_Utilisateurs    | Utilisateurs    |
+|---------------------|--------------------|-----------------|
+| Ressources Humaines | Utilisateurs_RH    | Placide         |
+|---------------------|--------------------|-----------------|
+| Informatique        | Utilisateurs_INT   | Fortuné         |
+|---------------------|--------------------|-----------------|
+| Comptabilité        | Utilisateurs_CP    | Hugues          |
+
+Voir ci-dessous, une démonstration imagée sur la connexion de l’utilisateur au domaine.
+
+
+<p align="center">
+
+<img src="images/01.png" width="400">
+
+<img src="images/02.png" width="400">
+
+<img src="images/03.png" width="400">
+
+<img src="images/04.png" width="400">
+
+<img src="images/05.png" width="400">
+
+<img src="images/06.png" width="400">
+
+<img src="images/07.png" width="400">
+
+</p>
+
+
