@@ -2,7 +2,7 @@
 
 ---
 
-## Objectif 
+## Objectif :
 
 Vérifier que l’utilisateur peut accéder aux ressources réseau selon les droits définis. 
 

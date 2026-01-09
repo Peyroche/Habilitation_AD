@@ -74,6 +74,7 @@ L’infrastructure se compose des éléments suivants :
 
 Ce document est reparti en 3 parties, à savoir :
 
+
 Partie I - Création de l’architecture AD  : 
 
 - Installation du serveur 
@@ -86,13 +87,15 @@ Partie I - Création de l’architecture AD  :
 
 - Création des OU. 
 
+
 Partie II – Mise en place d’AGLDP :
 
 - Création des comptes 
 
 - Création des groupes GG et DLG 
 
-- Attribution des permissions NTFS/SMB. 
+- Attribution des permissions NTFS/SMB.
+ 
 
 Partie III – Tests et validations : 
 
