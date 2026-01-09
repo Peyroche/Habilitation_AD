@@ -30,9 +30,6 @@ Si l’utilisateur appartient au groupe autorisé, l’accès est direct. Sinon,
 
 ## Démonstration : 
 
-Voir ci-dessous, une démonstration imagée sur l’accès au dossier partage.
-
-
 <p align="center">
 
 <img src="images/05.png" width="400">
