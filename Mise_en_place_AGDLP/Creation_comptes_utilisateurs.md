@@ -38,15 +38,17 @@ Les comptes utilisateurs sont créés depuis la console Utilisateurs et ordinate
 
 Les utilisateurs suivants ont été crées :
 
+<div align="center">
+
 | Services            | OU_Utilisateurs    | Utilisateurs    |
 |---------------------|--------------------|-----------------|
 | Ressources Humaines | Utilisateurs_RH    | Placide         |
-|---------------------|--------------------|-----------------|
 | Informatique        | Utilisateurs_INT   | Fortuné         |
-|---------------------|--------------------|-----------------|
 | Comptabilité        | Utilisateurs_CP    | Hugues          |
 
-Voir ci-dessous, une démonstration imagée sur la connexion de l’utilisateur au domaine.
+</div>
+
+Voir ci-dessous, une démonstration imagée sur la connexion d'un utilisateur au domaine.
 
 
 <p align="center">
