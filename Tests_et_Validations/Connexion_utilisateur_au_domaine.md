@@ -36,15 +36,18 @@ La session s’ouvre sans erreur, le poste affiche le domaine dans les informati
 
 Voir ci-dessous, une démonstration imagée sur la connexion de l’utilisateur au domaine. 
 
-<img src="images/01.png" width="300">
 
-<img src="images/02.png" width="300">
+<p align="center">
 
-<img src="images/03.png" width="300">
+<img src="images/01.png" width="400">
 
-<img src="images/04.png" width="300">
+<img src="images/02.png" width="400">
 
+<img src="images/03.png" width="400">
 
+<img src="images/04.png" width="400">
+
+</p>
 
 
 
