@@ -1,16 +1,16 @@
-# CREATIONS DES COMPTES UTILISATEURS
+# CREATION COMPTE UTILISATEUR
 
 ---
 
 ## Objectif :
 
-Chaque utilisateur est créé dans l’OU correspondant à son service afin de maintenir une organisation claire et professionnelle du domaine Active Directory. 
+L'utilisateur est créé dans l’OU correspondant à son service afin de maintenir une organisation claire et professionnelle du domaine Active Directory. 
 
 ---
  
 ## Procédure :
 
-Les comptes utilisateurs sont créés depuis la console Utilisateurs et ordinateurs Active Directory (ADUC) en suivant la procédure suivante : 
+Le compte utilisateur est créé depuis la console Utilisateurs et ordinateurs Active Directory (ADUC) en suivant la procédure suivante : 
 
 1. Ouvrir Utilisateurs et ordinateurs Active Directory 
 

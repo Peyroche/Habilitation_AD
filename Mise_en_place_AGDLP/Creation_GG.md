@@ -1,16 +1,16 @@
-# CREATION DES GROUPES GLOBAUX (GG)
+# CREATION DES GROUPE GLOBAL (GG)
 
 ---
 
 ## Objectif :
 
-Les groupes globaux (GG) représentent les rôles métiers dans l’entreprise. Ils servent à regrouper les utilisateurs selon leur service afin d’appliquer ensuite le modèle AGDLP.
+Le groupe global (GG) représente le rôle métier dans l’entreprise. Il sert à regrouper les utilisateurs selon leur service afin d’appliquer ensuite le modèle AGDLP.
 
 ---
 
 ## Procédure :
 
-Les Groupes globaux sont créés depuis la console Utilisateurs et ordinateurs Active Directory (ADUC) en suivant la procédure suivante : 
+Le Groupe global est créé depuis la console Utilisateurs et ordinateurs Active Directory (ADUC) en suivant la procédure suivante : 
 
 1. Aller dans : OU_Groupes → GG 
 
