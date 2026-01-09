@@ -10,7 +10,7 @@ L'utilisateur est créé dans l’OU correspondant à son service afin de mainte
  
 ## Procédure :
 
-Le compte utilisateur est créé depuis la console Utilisateurs et ordinateurs Active Directory (ADUC) en suivant la procédure suivante : 
+La procédure est la suivante : 
 
 1. Ouvrir Utilisateurs et ordinateurs Active Directory 
 
