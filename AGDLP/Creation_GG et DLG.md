@@ -53,7 +53,7 @@ Pour la création d'un GG, la procédure utilisée est la suivante  :
 
 ---
 
-Procédure création DLG :
+## Procédure création DLG :
 
 Pour la création d'un DLG, la procédure utilisée est la suivante  :
 
