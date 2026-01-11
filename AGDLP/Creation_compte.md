@@ -60,7 +60,39 @@ La procédure utilisée est la suivante :
 
 </p>
 
+
 - Création compte utilisateurs_INF du nom de Fortuné
 
+<p align="center">
+
+<img src="images_INF/01.png" width="400">
+
+<img src="images_INF/02.png" width="400">
+
+<img src="images_INF/03.png" width="400">
+
+<img src="images_INF/04.png" width="400">
+
+<img src="images_INF/05.png" width="400">
+
+<img src="images_INF/06.png" width="400">
+
+</p>
+
+
 - Création compte utilisateur_CP du nom de Hugues
+
+<p align="center">
+
+<img src="images_CP/01.png" width="400">
+
+<img src="images_CP/02.png" width="400">
+
+<img src="images_CP/03.png" width="400">
+
+<img src="images_CP/04.png" width="400">
+
+<img src="images_CP/05.png" width="400">
+
+</p>
 
