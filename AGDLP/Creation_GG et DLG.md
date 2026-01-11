@@ -47,8 +47,6 @@ Pour la création d'un GG, la procédure utilisée est la suivante  :
 
 <img src="images_GG_RH/03.png" width="400">
 
-<img src="images_GG_RH/04.png" width="400">
-
 </p>
 
 
@@ -62,8 +60,6 @@ Pour la création d'un GG, la procédure utilisée est la suivante  :
 
 <img src="images_GG_INF/03.png" width="400">
 
-<img src="images_GG_INF/04.png" width="400">
-
 </p>
 
 
@@ -76,8 +72,6 @@ Pour la création d'un GG, la procédure utilisée est la suivante  :
 <img src="images_GG_CP/02.png" width="400">
 
 <img src="images_GG_CP/03.png" width="400">
-
-<img src="images_GG_CP/04.png" width="400">
 
 </p>
 
