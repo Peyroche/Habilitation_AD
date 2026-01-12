@@ -4,7 +4,7 @@
 
 ## Objectif :
 
-Vérifier que les postes clients Windows peuvent s’authentifier correctement auprès du domaine.
+Vérifier que les postes clients Windows peuvent s’authentifier correctement auprès du domaine mdf.corp.
 
 ---
 
