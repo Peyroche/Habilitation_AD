@@ -1,10 +1,10 @@
-# Vérification configuration réseau du poste client 
+# Test de configuration réseau du poste client 
 
 ---
 
 ## Procédure :
 
-On vérifie la configuration réseau du poste client dans l'invite de commande avec :
+On test la configuration réseau du poste client dans l'invite de commande avec :
  
 - ipconfig : Pour confirmer que le poste client a une adresse IP dans le même réseau que le serveur. Pour Vérifier que le DNS pointe vers le contrôleur de domaine.
 
