@@ -4,13 +4,13 @@
 
 ## Objectif :
 
-L’attribution des permissions est l’étape où les groupes domaines local (DLG) reçoivent les droits d’accès sur les dossiers partagés du serveur.
+Attribuer aux groupes domaines local (DLG) les droits d’accès et permissions sur les dossiers partagés du serveur.
 
 ---
 
-## Permissions droits de partage (SMB) :
+## Droits de partage SMB :
 
-Les permissions SMB s’appliquent au niveau du partage en suivant la procédure 
+Les droits de partage SMB s’appliquent au niveau du partage en suivant la procédure 
 suivante :
 
 1. Clic droit sur le dossier (ex : Dossier_RH)
@@ -32,7 +32,7 @@ suivante :
 9. Donner les droits associés au groupe. (ex : Full Control).
 
 
-| Dossiers     | OU_Groupes   | Permissions droits de partage (SMB)                                                  |
+| Dossiers     | OU_Groupes   | Droits de partage (SMB)                                                              |
 |--------------|--------------|--------------------------------------------------------------------------------------|
 | Dossier_RH   | DLG_RH       | Full Control (Contrôle total) : Modification + gestion des permissions du partage.   | 
 | Dossier_INF  | DLG_INF      | Change (Modification) : Lecture + modification, suppression, création de fichiers.   |
@@ -47,25 +47,25 @@ suivante :
 
 <p align="center">
 
-<img src="images_SMB_RH/01.png" width="400">
+<img src="images/images_SMB_RH/01.png" width="400">
 
-<img src="images_SMB_RH/02.png" width="400">
+<img src="images/images_SMB_RH/02.png" width="400">
 
-<img src="images_SMB_RH/03.png" width="400">
+<img src="images/images_SMB_RH/03.png" width="400">
 
-<img src="images_SMB_RH/04.png" width="400">
+<img src="images/images_SMB_RH/04.png" width="400">
 
-<img src="images_SMB_RH/05.png" width="400">
+<img src="images/images_SMB_RH/05.png" width="400">
 
-<img src="images_SMB_RH/06.png" width="400">
+<img src="images/images_SMB_RH/06.png" width="400">
 
-<img src="images_SMB_RH/07.png" width="400">
+<img src="images/images_SMB_RH/07.png" width="400">
 
-<img src="images_SMB_RH/08.png" width="400">
+<img src="images/images_SMB_RH/08.png" width="400">
 
-<img src="images_SMB_RH/09.png" width="400">
+<img src="images/images_SMB_RH/09.png" width="400">
 
-<img src="images_SMB_RH/10.png" width="400">
+<img src="images/images_SMB_RH/10.png" width="400">
 
 </p>
 
@@ -74,25 +74,25 @@ suivante :
 
 <p align="center">
 
-<img src="images_SMB_INF/01.png" width="400">
+<img src="images/images_SMB_INF/01.png" width="400">
 
-<img src="images_SMB_INF/02.png" width="400">
+<img src="images/images_SMB_INF/02.png" width="400">
 
-<img src="images_SMB_INF/03.png" width="400">
+<img src="images/images_SMB_INF/03.png" width="400">
 
-<img src="images_SMB_INF/04.png" width="400">
+<img src="images/images_SMB_INF/04.png" width="400">
 
-<img src="images_SMB_INF/05.png" width="400">
+<img src="images/images_SMB_INF/05.png" width="400">
 
-<img src="images_SMB_INF/06.png" width="400">
+<img src="images/images_SMB_INF/06.png" width="400">
 
-<img src="images_SMB_INF/07.png" width="400">
+<img src="images/images_SMB_INF/07.png" width="400">
 
-<img src="images_SMB_INF/08.png" width="400">
+<img src="images/images_SMB_INF/08.png" width="400">
 
-<img src="images_SMB_INF/09.png" width="400">
+<img src="images/images_SMB_INF/09.png" width="400">
 
-<img src="images_SMB_INF/10.png" width="400">
+<img src="images/images_SMB_INF/10.png" width="400">
 
 </p>
 
