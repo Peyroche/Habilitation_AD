@@ -82,29 +82,3 @@ La procédure de configuration du réseau est la suivante :
 
 </p>
 
----
-
-## Vérification de la configuration réseau du poste client :
-
-On vérifie la configuration réseau du poste client dans l'invite de commande avec :
- 
-1. ipconfig : 
-- Pour confirmer que le poste client a une adresse IP dans le même réseau que le serveur
-- Pour Vérifier que le DNS pointe vers le contrôleur de domaine.
-
-2. Ping 10.0.0.10 :
-- Pour vérifier que le poste client peut joindre le serveur
-- Pour confirmer que les deux machines sont dans le même réseau VirtualBox
-- pour s’assurer que le serveur est allumé et que le pare‑feu ne bloque pas ICMP.
-
----
-
-## Démonstrations :
-
-<p align="center">
-
-<img src="images/images_verifica/01.png" width="400">
-
-</p>
-
-
