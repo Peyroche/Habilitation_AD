@@ -64,7 +64,7 @@ Partie II – Mise en place d’AGLDP :
 
 - Création des comptes utilisateurs
 
-- Création des groupes GG et DLG 
+- Création des GG et DLG 
 
 - Attribution des permissions NTFS/SMB.
  
@@ -73,6 +73,4 @@ Partie III – Tests et validations :
 
 - Connexion des utilisateurs au domaine
 
-- Accès aux dossiers partagés
-
-- Vérifications des permissions NTFS.
+- Vérifications accès et permissions NTFS.
