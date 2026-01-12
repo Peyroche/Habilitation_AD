@@ -4,8 +4,9 @@
 
 ## Objectifs :
 
-- Vérifier que les utilisateurs peuvent accéder aux ressources selon les droits de partage SMB définis.
-- S’assurer que les permissions NTFS appliquées sur le dossier partage correspondent aux règles prévues.
+Vérifier que :
+- Les utilisateurs peuvent accéder aux ressources selon les droits de partage SMB définis.
+- Les permissions NTFS appliquées sur le dossier partage correspondent aux règles prévues.
 
 ---
 
@@ -31,7 +32,7 @@ La procédure utilisée est la suivante :
 
 ## Démonstrations :
 
-- Vérification permissions NTFS au Dossier_RH
+- Vérification accès et permissions NTFS au Dossier_RH
 
 <p align="center">
 
@@ -46,7 +47,7 @@ La procédure utilisée est la suivante :
 </p>
 
 
-- Vérification permissions NTFS au Dossier_INF
+- Vérification accès et permissions NTFS au Dossier_INF
 
 <p align="center">
 
@@ -59,7 +60,7 @@ La procédure utilisée est la suivante :
 </p>
 
 
-- Vérification permissions NTFS au Dossier_CP
+- Vérification accès et permissions NTFS au Dossier_CP
 
 <p align="center">
 
