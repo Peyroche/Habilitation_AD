@@ -14,10 +14,12 @@ La procédure de configuration du réseau est la suivante :
 6. Dans la liste, sélectionner : Protocole Internet version 4 (TCP/IPv4)
 7. Configurer le réseau. 
 
+
 | Machines               | IP         |  Masque       |  Passerelle    | Serveur DNS préféré |
 |------------------------|------------|---------------|----------------|---------------------|
 | Poste client (PC)      | 10.0.0.20  | 255.255.255.0 |      /         |   10.0.0.10         | 
 | Serveur Windows Server | 10.0.0.10  | 255.255.255.0 |       /        |   10.0.0.10         |                     
+
 
 Sur le Serveur Windows Server, la procédure de configuration est effectuée par l'administrateur.
 Tandis que sur le poste client, la procédure de configuration est effectuée par l'utilisateur.
@@ -184,17 +186,17 @@ Pour joindre le poste client au domaine, la procédure est la suivante :
 
 <img src="images/images_jonct/04.png" width="400">
 
-<img src="images/images_conf_jonct/05.png" width="400">
+<img src="images/images_jonct/05.png" width="400">
 
-<img src="images/images_conf_jonct/06.png" width="400">
+<img src="images/images_jonct/06.png" width="400">
 
-<img src="images/images_conf_jonct/07.png" width="400">
+<img src="images/images_jonct/07.png" width="400">
 
-<img src="images/images_conf_jonct/08.png" width="400">
+<img src="images/images_jonct/08.png" width="400">
 
-<img src="images/images_conf_jonct/09.png" width="400">
+<img src="images/images_jonct/09.png" width="400">
 
-<img src="images/images_conf_jonct/10.png" width="400">
+<img src="images/images_jonct/10.png" width="400">
 
 </p>
 
