@@ -1,34 +1,35 @@
-# Configuration réseau et jonction du poste client au domaine  
+# Configuration du réseau  
 
 ---
 
-## Configuration du réseau :
+## Procédure :
 
 La procédure de configuration du réseau est la suivante :
 
 1. Accéder au panneau de configuration
-2. Cliquer sur Réseau et Internet
-3. Cliquer sur centre de partage et réseau
-4. Cliquer sur Ethernet
-5. Choisir Propriétés
-6. Dans la liste, sélectionner : Protocole Internet version 4 (TCP/IPv4)
-7. Configurer le réseau. 
 
+2. Cliquer sur Réseau et Internet
+
+3. Cliquer sur centre de partage et réseau
+
+4. Cliquer sur Ethernet
+
+5. Choisir Propriétés
+
+6. Dans la liste, sélectionner : Protocole Internet version 4 (TCP/IPv4)
+
+7. Configurer le réseau. 
 
 | Machines               | IP         |  Masque       |  Passerelle    | Serveur DNS préféré |
 |------------------------|------------|---------------|----------------|---------------------|
 | Poste client (PC)      | 10.0.0.20  | 255.255.255.0 |      /         |   10.0.0.10         | 
 | Serveur Windows Server | 10.0.0.10  | 255.255.255.0 |       /        |   10.0.0.10         |                     
 
-
-Sur le Serveur Windows Server, la procédure de configuration est effectuée par l'administrateur.
-Tandis que sur le poste client, la procédure de configuration est effectuée par l'utilisateur.
-
 ---
 
 ## Démonstration configuration du réseau :
 
-- Configuration du réseau sur le Serveur Windows Server par l'administrateur
+- Configuration du réseau sur le Serveur Windows Server, effectuée par l'administrateur
 
 <p align="center">
 
@@ -55,7 +56,7 @@ Tandis que sur le poste client, la procédure de configuration est effectuée pa
 </p>
 
 
-- Configuration du réseau sur le poste client par l'utilisateur_RH du nom de Placide
+- Configuration du réseau sur le poste client, effectuée par l'utilisateur_RH du nom de Placide
 
 <p align="center">
 
@@ -130,7 +131,7 @@ Pour activer la carte réseau, la procédure est la suivante :
 
 ---
 
-## Vérifier la configuration réseau du poste client :
+## Vérification de la configuration réseau du poste client :
 
 On vérifie la configuration réseau du poste client dans l'invite de commande avec :
  
@@ -145,59 +146,11 @@ On vérifie la configuration réseau du poste client dans l'invite de commande a
 
 ---
 
-## Démonstration sur la vérification de la configuration réseau du poste client :
+## Démonstration :
 
 <p align="center">
 
 <img src="images/images_verifica/01.png" width="400">
-
-</p>
-
----
-
-## Jonction du poste client au domaine :
-
-Pour joindre le poste client au domaine, la procédure est la suivante :
-
-1. Clic droit sur PC 
-
-2. Propriété 
-
-3. Cliquer sur renommer ce PC
-
-4. Modifier
-
-4. Entrer un domaine : mdf.corp 
-
-5. Fournir un compte admin du domaine (ex : Administrateur) suivi de son passeword 
-
-6. Redémarrer le poste client.
-
----
-
-## Démonstration sur la jonction du poste client au domaine :
-
-<p align="center">
-
-<img src="images/images_jonct/01.png" width="400">
-
-<img src="images/images_jonct/02.png" width="400">
-
-<img src="images/images_jonct/03.png" width="400">
-
-<img src="images/images_jonct/04.png" width="400">
-
-<img src="images/images_jonct/05.png" width="400">
-
-<img src="images/images_jonct/06.png" width="400">
-
-<img src="images/images_jonct/07.png" width="400">
-
-<img src="images/images_jonct/08.png" width="400">
-
-<img src="images/images_jonct/09.png" width="400">
-
-<img src="images/images_jonct/10.png" width="400">
 
 </p>
 
