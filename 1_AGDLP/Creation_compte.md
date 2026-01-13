@@ -40,9 +40,7 @@ La procédure utilisée est la suivante :
 
 ---
 
-## Démonstrations :
-
-- Création compte utilisateur_RH du nom de Placide
+## Démonstration Création compte utilisateur_RH du nom de Placide
 
 <p align="center">
 
@@ -60,8 +58,9 @@ La procédure utilisée est la suivante :
 
 </p>
 
+---
 
-- Création compte utilisateur_INF du nom de Fortuné
+## Création compte utilisateur_INF du nom de Fortuné
 
 <p align="center">
 
@@ -79,8 +78,9 @@ La procédure utilisée est la suivante :
 
 </p>
 
+---
 
-- Création compte utilisateur_CP du nom de Hugues
+## Création compte utilisateur_CP du nom de Hugues
 
 <p align="center">
 
