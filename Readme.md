@@ -18,7 +18,7 @@ L’infrastructure se compose des éléments suivants :
 
 - 3 groupes locaux de domaine (DLG) associés aux ressources partagées. Ils reçoivent les permissions NTFS et SMB sur les dossiers du serveur. 
 
-- 3 postes clients Windows 10 Pro intégrés au domaine. Il permet aux utilisateurs de se connecter avec leur compte AD et d’accéder aux ressources selon leurs droits. 
+- 3 postes clients Windows 10 Pro intégrés au domaine. Ils permettent aux utilisateurs de se connecter avec leur compte AD et d’accéder aux ressources selon leurs droits. 
 
 - 3 dossiers partagés sur le serveur, organisés par service (Ressources Humaines, Informatique, Comptabilité). Chaque dossier est protégé par des permissions adaptées au rôle des 
 utilisateurs. 

@@ -112,7 +112,7 @@ Cette authentification permet :
 
 ## Test de vérification des permissions NTFS du Dossier_RH avec l'utilisateur_RH :
 
-Rappel des droits d'accès sur dossier :
+Rappel des droits d'accès aux dossiers :
 
 | Dossiers     | OU_Groupes | DLG     | Permissions NTFS                                                                     |
 |--------------|------------|---------|--------------------------------------------------------------------------------------|

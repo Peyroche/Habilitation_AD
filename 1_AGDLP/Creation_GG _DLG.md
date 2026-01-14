@@ -52,10 +52,6 @@ La procédure utilisée est la suivante :
 
 <img src="images_2/images_GG_RH/03.png" width="350">
 
-<img src="images_2/images_GG_RH/04.png" width="350">
-
-<img src="images_2/images_GG_RH/05.png" width="350">
-
 </p>
 
 ---
