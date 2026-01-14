@@ -1,4 +1,4 @@
-# INTRODUCTION
+## INTRODUCTION
 
 ---
 
@@ -73,7 +73,7 @@ La procédure utilisée est la suivante :
 
 ---
 
-## Procédure test configuration Postes clients :
+## Procédure tests de configuration Postes clients :
 
 On test la configuration réseau du poste client dans l'invite de commande :
  

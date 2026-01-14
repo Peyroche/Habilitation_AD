@@ -1,4 +1,4 @@
-# DEMONSTRATION
+## DEMONSTRATION
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Configuration carte réseau postes clients :
+## Configuration carte réseau Poste Client PC_RH Windows 10 :
 
 <p align="center">
 
@@ -23,6 +23,8 @@
 <img src="images_carte/04.png" width="350">
 
 </p>
+
+La procédure est la même pour les autres Postes Clients.
 
 ---
 
@@ -54,7 +56,7 @@
 
 ---
 
-## Configuration postes clients :
+## Configuration Poste Client PC_RH Windows 10 :
 
 <p align="center">
 
@@ -80,9 +82,12 @@
 
 </p>
 
+
+La procédure est la même pour les autres Postes Clients.
+
 ---
 
-## Test configuration poste client PC_RH Windows 10
+## Tests de configuration Poste Client PC_RH Windows 10
 
 <p align="center">
 
