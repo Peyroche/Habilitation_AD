@@ -32,7 +32,8 @@ L’infrastructure se compose des éléments suivants :
 
 ## III. Missions réalisées : 
 
-- installer Windows Server et le Domaine Active Directory,
+- installer Windows Server
+- installer Domaine Active Directory,
 - installer WampServer (Serveur GLPI),
 - installer deux postes clients,
 - créer des unités d’organisation, 
