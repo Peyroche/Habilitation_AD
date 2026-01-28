@@ -77,17 +77,17 @@ L’infrastructure se compose des éléments suivants :
 
 <p align="center">
 
-<img src="conf_SRV/01.png" width="400">
+<img src="config_SRV/01.png" width="400">
 
-<img src="conf_SRV/02.png" width="400">
+<img src="config_SRV/02.png" width="400">
 
-<img src="conf_SRV/03.png" width="400">
+<img src="config_SRV/03.png" width="400">
 
-<img src="conf_SRV/04.png" width="400">
+<img src="config_SRV/04.png" width="400">
 
-<img src="conf_SRV/05.png" width="400">
+<img src="config_SRV/05.png" width="400">
 
-<img src="conf_SRV/06.png" width="400">
+<img src="config_SRV/06.png" width="400">
 
 </p>
 
