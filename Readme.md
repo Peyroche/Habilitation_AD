@@ -236,7 +236,7 @@ L’infrastructure se compose des éléments suivants :
 
 </p>
 
-## Configuration Poste Client Service_IT :
+## Configuration Poste Client PC01 du Service_IT :
 
 <p align="center">
 
@@ -254,7 +254,7 @@ L’infrastructure se compose des éléments suivants :
 
 </p>
 
-III.3.2. Installation Poste Client Service_Compta :
+III.3.2. Installation Poste Client PC02 du Service_Compta :
 
 
 
