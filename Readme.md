@@ -71,21 +71,27 @@ L’infrastructure se compose des éléments suivants :
 
 <img src="install_2/10.png" width="400">
 
-<img src="install_2/11.png" width="400">
+</p>
 
-<img src="install_2/12.png" width="400">
+## Configuration Windows server :
 
-<img src="install_2/13.png" width="400">
+<p align="center">
 
-<img src="install_2/14.png" width="400">
+<img src="parametre_1/01.png" width="400">
 
-<img src="install_2/15.png" width="400">
+<img src="parametre_2/02.png" width="400">
 
-<img src="install_2/16.png" width="400">
+<img src="parametre_2/03.png" width="400">
+
+<img src="parametre_2/04.png" width="400">
+
+<img src="parametre_2/05.png" width="400">
+
+<img src="parametre_2/06.png" width="400">
 
 </p>
 
-## Configuration Windows Server :
+## Configuration réseau Windows Server :
 
 <p align="center">
 
