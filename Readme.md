@@ -237,6 +237,24 @@ Le projet à pour objectif :
 
 </p>
 
+## Configuration Postes clients :
+
+<p align="center">
+
+<img src="config_3/01.png" width="400">
+
+<img src="config_3/02.png" width="400">
+
+<img src="config_3/03.png" width="400">
+
+<img src="config_3/04.png" width="400">
+
+<img src="config_3/05.png" width="400">
+
+<img src="config_3/06.png" width="400">
+
+</p>
+
 ---
 
 
