@@ -51,43 +51,43 @@ L’infrastructure se compose des éléments suivants :
 
 <p align="center">
 
-<img src="install_2/01.png" width="400">
+<img src="install_SRV/01.png" width="400">
 
-<img src="install_2/02.png" width="400">
+<img src="install_SRV/02.png" width="400">
 
-<img src="install_2/03.png" width="400">
+<img src="install_SRV/03.png" width="400">
 
-<img src="install_2/04.png" width="400">
+<img src="install_SRV/04.png" width="400">
 
-<img src="install_2/05.png" width="400">
+<img src="install_SRV/05.png" width="400">
 
-<img src="install_2/06.png" width="400">
+<img src="install_SRV/06.png" width="400">
 
-<img src="install_2/07.png" width="400">
+<img src="install_SRV/07.png" width="400">
 
-<img src="install_2/08.png" width="400">
+<img src="install_SRV/08.png" width="400">
 
-<img src="install_2/09.png" width="400">
+<img src="install_SRV/09.png" width="400">
 
-<img src="install_2/10.png" width="400">
+<img src="install_SRV/10.png" width="400">
 
 </p>
 
-## Configuration Windows server :
+## Configuration Windows Server :
 
 <p align="center">
 
-<img src="parametre_1/01.png" width="400">
+<img src="conf_SRV/01.png" width="400">
 
-<img src="parametre_1/02.png" width="400">
+<img src="conf_SRV/02.png" width="400">
 
-<img src="parametre_1/03.png" width="400">
+<img src="conf_SRV/03.png" width="400">
 
-<img src="parametre_1/04.png" width="400">
+<img src="conf_SRV/04.png" width="400">
 
-<img src="parametre_1/05.png" width="400">
+<img src="conf_SRV/05.png" width="400">
 
-<img src="parametre_1/06.png" width="400">
+<img src="conf_SRV/06.png" width="400">
 
 </p>
 
@@ -95,17 +95,17 @@ L’infrastructure se compose des éléments suivants :
 
 <p align="center">
 
-<img src="config_1/01.png" width="400">
+<img src="reseau_SRV/01.png" width="400">
 
-<img src="config_1/02.png" width="400">
+<img src="reseau_SRV/02.png" width="400">
 
-<img src="config_1/03.png" width="400">
+<img src="reseau_SRV/03.png" width="400">
 
-<img src="config_1/04.png" width="400">
+<img src="reseau_SRV/04.png" width="400">
 
-<img src="config_1/05.png" width="400">
+<img src="reseau_SRV/05.png" width="400">
 
-<img src="config_1/06.png" width="400">
+<img src="reseau_SRV/06.png" width="400">
 
 </p>
 
@@ -115,45 +115,45 @@ L’infrastructure se compose des éléments suivants :
 
 <p align="center">
 
-<img src="domaine/01.png" width="400">
+<img src="install_AD/01.png" width="400">
 
-<img src="domaine/02.png" width="400">
+<img src="install_AD/02.png" width="400">
 
-<img src="domaine/03.png" width="400">
+<img src="install_AD/03.png" width="400">
 
-<img src="domaine/04.png" width="400">
+<img src="install_AD/04.png" width="400">
 
-<img src="domaine/05.png" width="400">
+<img src="install_AD/05.png" width="400">
 
-<img src="domaine/06.png" width="400">
+<img src="install_AD/06.png" width="400">
 
-<img src="domaine/07.png" width="400">
+<img src="install_AD/07.png" width="400">
 
-<img src="domaine/08.png" width="400">
+<img src="install_AD/08.png" width="400">
 
-<img src="domaine/09.png" width="400">
+<img src="install_AD/09.png" width="400">
 
-<img src="domaine/10.png" width="400">
+<img src="install_AD/10.png" width="400">
 
-<img src="domaine/11.png" width="400">
+<img src="install_AD/11.png" width="400">
 
-<img src="domaine/12.png" width="400">
+<img src="install_AD/12.png" width="400">
 
-<img src="domaine/13.png" width="400">
+<img src="install_AD/13.png" width="400">
 
-<img src="domaine/14.png" width="400">
+<img src="install_AD/14.png" width="400">
 
-<img src="domaine/15.png" width="400">
+<img src="install_AD/15.png" width="400">
 
-<img src="domaine/16.png" width="400">
+<img src="install_AD/16.png" width="400">
 
-<img src="domaine/17.png" width="400">
+<img src="install_AD/17.png" width="400">
 
-<img src="domaine/18.png" width="400">
+<img src="install_AD/18.png" width="400">
 
-<img src="domaine/19.png" width="400">
+<img src="install_AD/19.png" width="400">
 
-<img src="domaine/20.png" width="400">
+<img src="install_AD/20.png" width="400">
 
 </p>
 
@@ -163,43 +163,43 @@ L’infrastructure se compose des éléments suivants :
 
 <p align="center">
 
-<img src="wampserver/01.png" width="400">
+<img src="install_SRV_GLPI/01.png" width="400">
 
-<img src="wampserver/02.png" width="400">
+<img src="install_SRV_GLPI/02.png" width="400">
 
-<img src="wampserver/03.png" width="400">
+<img src="install_SRV_GLPI/03.png" width="400">
 
-<img src="wampserver/04.png" width="400">
+<img src="install_SRV_GLPI/04.png" width="400">
 
-<img src="wampserver/05.png" width="400">
+<img src="install_SRV_GLPI/05.png" width="400">
 
-<img src="wampserver/06.png" width="400">
+<img src="install_SRV_GLPI/06.png" width="400">
 
-<img src="wampserver/07.png" width="400">
+<img src="install_SRV_GLPI/07.png" width="400">
 
-<img src="wampserver/08.png" width="400">
+<img src="install_SRV_GLPI/08.png" width="400">
 
-<img src="wampserver/09.png" width="400">
+<img src="install_SRV_GLPI/09.png" width="400">
 
-<img src="wampserver/10.png" width="400">
+<img src="install_SRV_GLPI/10.png" width="400">
 
 </p>
 
-## Configuration Serveur GLPI :
+## Configuration réseau Serveur GLPI :
 
 <p align="center">
 
-<img src="config_2/01.png" width="400">
+<img src="reseau_SRV_GLPI/01.png" width="400">
 
-<img src="config_2/02.png" width="400">
+<img src="reseau_SRV_GLPI/02.png" width="400">
 
-<img src="config_2/03.png" width="400">
+<img src="reseau_SRV_GLPI/03.png" width="400">
 
-<img src="config_2/04.png" width="400">
+<img src="reseau_SRV_GLPI/04.png" width="400">
 
-<img src="config_2/05.png" width="400">
+<img src="reseau_SRV_GLPI/05.png" width="400">
 
-<img src="config_2/06.png" width="400">
+<img src="reseau_SRV_GLPI/06.png" width="400">
 
 </p>
 
@@ -229,35 +229,41 @@ L’infrastructure se compose des éléments suivants :
 
 <img src="install_1/10.png" width="400">
 
-<img src="install_1/11.png" width="400">
-
-<img src="install_1/12.png" width="400">
-
-<img src="install_1/13.png" width="400">
-
-<img src="install_1/14.png" width="400">
-
-<img src="install_1/15.png" width="400">
-
-<img src="install_1/16.png" width="400">
-
 </p>
 
 ## Configuration Poste Client PC01 du Service_IT :
 
 <p align="center">
 
-<img src="config_3/01.png" width="400">
+<img src="config_PC01/01.png" width="400">
 
-<img src="config_3/02.png" width="400">
+<img src="config_PC01/02.png" width="400">
 
-<img src="config_3/03.png" width="400">
+<img src="config_PC01/03.png" width="400">
 
-<img src="config_3/04.png" width="400">
+<img src="config_PC01/04.png" width="400">
 
-<img src="config_3/05.png" width="400">
+<img src="config_PC01/05.png" width="400">
 
-<img src="config_3/06.png" width="400">
+<img src="config_PC01/06.png" width="400">
+
+</p>
+
+## Configuration réseau Poste Client PC01 du Service_IT :
+
+<p align="center">
+
+<img src="reseau_PC01/01.png" width="400">
+
+<img src="reseau_PC01/02.png" width="400">
+
+<img src="reseau_PC01/03.png" width="400">
+
+<img src="reseau_PC01/04.png" width="400">
+
+<img src="reseau_PC01/05.png" width="400">
+
+<img src="reseau_PC01/06.png" width="400">
 
 </p>
 
